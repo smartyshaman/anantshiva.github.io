@@ -21,7 +21,7 @@ The conversation turned awkward after that. I could feel her pulling back, like 
 
 Not because I don’t care about society or how decisions get made. But because I care more about other things.
 
-I’ve always liked the way Socrates thought about civic responsibility. He believed that making decisions about governance isn’t just a right—it’s something that requires thought, reflection, and discipline. He compared it to steering a ship. You wouldn’t hand the wheel to someone who’s never learned how to navigate.
+I’ve always liked the way Socrates thought about civic responsibility. He believed that making decisions about governance isn’t just a right - it’s something that requires thought, reflection, and discipline. He compared it to steering a ship. You wouldn’t hand the wheel to someone who’s never learned how to navigate.
 
 That metaphor makes sense to me, especially when I look at how people talk about politics today. It often feels less like steering a ship and more like shouting at each other over who gets to sit at the wheel.
 
@@ -39,7 +39,7 @@ Of course, there are issues. Housing costs, inequality, rising expenses—it’s
 
 That’s why I don’t get worked up about politics. I don’t see the point of turning it into a team sport, like Liverpool vs Man Utd or iPhone vs Android. Too many people spend their energy arguing about which side is better, without realizing they’re caught in the same game.
 
-What I care about more is whether the system allows me—and people like me—to live well. To raise my kid. To do meaningful work. To focus on the things I can control.
+What I care about more is whether the system allows me - and people like me - to live well. To raise my kid. To do meaningful work. To focus on the things I can control.
 
 That’s where I choose to spend my energy.
 
