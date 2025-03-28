@@ -1,35 +1,32 @@
-title: "Overherd"
-description: "Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world."
-url: "https://anantshiva.github.io"
-baseurl: "" # important for GitHub Pages
+#-------------------------------
+# General Site Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://anantshiva.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: "Overherd"  # your site title
+description: "Yet another guy on the internet with opinions."  # for SEO
+author: "Anant Shiva"
 
-author:
-  name: "Anant Shiva"
-  bio: "Yet another guy on the internet with opinions."
-  avatar: "/images/01-1.jpg"
-
-permalink: /:title/
-paginate: 6
-paginate_path: /page:num/
-
-repository: smartyshaman/anantshiva.github.io
-
-# Exclude _site and other folders so they don’t get pushed unnecessarily
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
-  - CNAME
-  - .sass-cache
-  - .jekyll-cache
-  - .github
-
+#-------------------------------
+# Build Settings
 markdown: kramdown
-theme: null
-
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
+
+paginate: 6
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+
+include:
+  - _pages
+
+sass:
+  style: compressed

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Coderon
-description: Coderon is a super modern and unique Jekyll blog theme
+title: Overherd
+description: #
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
 
@@ -42,7 +42,7 @@ menu_settings:
 #-------------------------------
 # Author Settings
 author:
-  author_name: Alex Dias
+  author_name: Anant Shiva
   author_avatar: /images/01-1.jpg
 
 
@@ -51,33 +51,16 @@ author:
 hero:
   enable: true
   hero_avatar: /images/01-1.jpg
-  hero_title: Hi! I’m Alex 👋
-  hero_subtitle: A digital explorer, coder, and Linux advocate
+  hero_title: Hi! I’m Anant 👋
+  hero_subtitle: Yet another guy on the internet with opinions.
   hero_description: |
-    I’m a digital explorer, coder, and Linux advocate. This blog is my personal knowledge base on productivity, programming, and the freedom of information.
+    I teach video production and storytelling, but I also like figuring things out — whether it’s messing with code until something <em>kind of</em> works, building better habits, or making sense of the world.
 
-    Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+    This blog is where I share what I’m learning, what I’m experimenting with, and whatever’s on my mind. If that sounds like your kind of thing, stick around.
   hero_image: /images/01.jpg
   hero_image_caption: My creative space, where masterpieces are born
-  hero_button_text: Let’s Work Together
+  hero_button_text: Get in touch
   hero_button_link: '/contact/'
-
-
-# Logos
-logos:
-  enable: true
-  logos_title: Nerd Stuff
-  logo_image:
-    - alt: "Game Boy"
-      image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
-      image: "/images/1001.jpg"
-    - alt: "Keyboard"
-      image: "/images/1002.jpg"
-    - alt: "Headphones"
-      image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
 
 
 #-------------------------------
@@ -85,54 +68,6 @@ logos:
 blog:
   enable: true
   blog_title: The Binary Journal
-
-
-#-------------------------------
-# Tags Section Settings
-tags_section:
-  enable: true
-  tags_section_title: Hacker’s Haven
-  tags:
-    - tag: "Programming"
-      image: "/images/20.jpg"
-    - tag: "Linux"
-      image: "/images/21.jpg"
-    - tag: "Productivity"
-      image: "/images/22.jpg"
-    - tag: "Security"
-      image: "/images/23.jpg"
-
-
-#-------------------------------
-# Videos Section Settings
-videos_section:
-  enable: true
-  videos_section_title: Latest Videos
-
-
-#-------------------------------
-# Gallery Section Settings
-gallery_section:
-  enable: true
-  gallery_section_title: Byte Frame
-  gallery:
-    gallery_images:
-      - alt: 'Rest'
-        url: '/images/100.jpg'
-        caption: 'Small steps lead to big results.'
-      - alt: 'Lifestyle'
-        url: '/images/101.jpg'
-        caption: 'A peaceful moment captured during a serene evening.'
-      - alt: 'Hobby'
-        url: '/images/102.jpg'
-        caption: 'True friends are like stars — they shine brightest when the world feels dark.'
-      - alt: 'Computers'
-        url: '/images/103.jpg'
-        caption: 'Every click opens a new chapter in an endless story.'
-      - alt: 'Games'
-        url: '/images/104.jpg'
-        caption: 'Every level is a new opportunity to test your limits.'
-
 
 #-------------------------------
 # Newsletter Settings
@@ -153,10 +88,8 @@ footer_description: Here, I share ideas, tools, and methods that help me balance
 #-------------------------------
 # Social Settings
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
