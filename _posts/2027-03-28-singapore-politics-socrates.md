@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Why I Don’t Care About Politics (And What I Actually Care About)
+title: "Why I Don’t Care About Politics (And What I Actually Care About)"
 date: 2025-03-27
-tags:
-  - Reflection
-tags_color: "#4643ec"
-image: https://media.anantshiva.com/socrates-singapore.png
-featured:
+tags: [Reflection]
+tags_color: '#4643ec'
+image: 'https://media.anantshiva.com/socrates-singapore.png'
 ---
+
+*Note: This isn’t a political post. It’s not an argument. It’s not meant to convince anyone of anything. It’s just me thinking out loud about something I’ve been reflecting on lately.*
+
+---
+
 A few weeks ago, I was chatting with a friend. She’s passionate about Singapore politics, especially the opposition. She volunteers at rallies, stays updated on debates, and believes the ruling party has had it too easy for too long.
 
 Somewhere in the conversation, I said, "I don’t really care that much about politics."
@@ -52,7 +55,5 @@ If something feels unfair, I’ll question it. If something breaks, I’ll say s
 There are better things to do with my time.
 
 That’s where I’m at right now. Maybe that’ll change. But for now, I’d rather focus on what I can actually control.
-
----
 
 *Note: This isn’t a political post. It’s not an argument. It’s not meant to convince anyone of anything. It’s just me thinking out loud about something I’ve been reflecting on lately.*
