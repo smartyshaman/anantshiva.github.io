@@ -74,7 +74,7 @@ blog:
 mailchimp:
   enable: true
   mailchimp_title: Stay in the loop ✌️
-  mailchimp_description: Drop your email here, and I'll let you know when I have something worth sharing—whether it’s a new post, an interesting idea, or something I think you’d enjoy. No spam, no fluff—just the occasional email when I have something to say.
+  mailchimp_description: Drop your email here, and I'll let you know when I have something worth sharing - whether it’s a new post, an interesting idea, or something I think you’d enjoy. <br> No spam, no fluff - just the occasional email when I have something to say.
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
   mailchimp_input_text: Your email address...
   mailchimp_button_text: Let's Do this!

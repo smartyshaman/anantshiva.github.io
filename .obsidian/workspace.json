@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/elements.md",
+                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elements"
+              "title": "2027-03-28-singapore-politics-socrates"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/elements.md",
+                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for elements"
+              "title": "Backlinks for 2027-03-28-singapore-politics-socrates"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/elements.md",
+                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from elements"
+              "title": "Outgoing links from 2027-03-28-singapore-politics-socrates"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/elements.md",
+                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of elements"
+              "title": "Outline of 2027-03-28-singapore-politics-socrates"
             }
           },
           {
@@ -181,6 +181,7 @@
   },
   "active": "e2cfaa64522ce67c",
   "lastOpenFiles": [
+    "_pages/elements.md",
     "_posts/2027-03-28-singapore-politics-socrates.md",
     "_posts/2024-11-15-automating-routine-tasks-with-bash-scripts.md",
     "Untitled.md",
