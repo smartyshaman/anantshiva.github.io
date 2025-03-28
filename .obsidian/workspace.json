@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
+                "file": "_pages/elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2027-03-28-singapore-politics-socrates"
+              "title": "elements"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
+                "file": "_pages/elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2027-03-28-singapore-politics-socrates"
+              "title": "Backlinks for elements"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
+                "file": "_pages/elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2027-03-28-singapore-politics-socrates"
+              "title": "Outgoing links from elements"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2027-03-28-singapore-politics-socrates.md",
+                "file": "_pages/elements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2027-03-28-singapore-politics-socrates"
+              "title": "Outline of elements"
             }
           },
           {
@@ -181,13 +181,13 @@
   },
   "active": "e2cfaa64522ce67c",
   "lastOpenFiles": [
+    "_posts/2027-03-28-singapore-politics-socrates.md",
     "_posts/2024-11-15-automating-routine-tasks-with-bash-scripts.md",
     "Untitled.md",
     "_posts/2024-11-20-my-top-10-code-editors-for-developers.md",
     "_posts/2024-12-10-the-future-of-cinema-and-interactive-storytelling.md",
     "_posts/2024-12-12-tips-for-safeguarding-mobile-devices-and-cloud-storage.md",
     "_posts/2024-12-15-why-i-switched-to-arch-linux-and-never-looked-back.md",
-    "_posts/2027-03-28-singapore-politics-socrates.md",
     "images/01.jpg",
     "images/01-1.jpg",
     "images/01-3.jpg",
