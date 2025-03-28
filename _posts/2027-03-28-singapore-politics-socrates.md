@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Why I Don’t Care About Politics (And What I Actually Care About)"
+title: Why I Don’t Care About Politics (And What I Actually Care About)
 date: 2025-03-27
-tags: [Reflection]
-tags_color: '#4643ec'
-image: 'https://media.anantshiva.com/socrates-singapore.png'
+tags:
+  - Reflection
+tags_color: "#4643ec"
+image: https://media.anantshiva.com/socrates-singapore.png
+featured:
 ---
 A few weeks ago, I was chatting with a friend. She’s passionate about Singapore politics, especially the opposition. She volunteers at rallies, stays updated on debates, and believes the ruling party has had it too easy for too long.
 
