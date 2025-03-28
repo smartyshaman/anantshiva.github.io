@@ -67,7 +67,7 @@ hero:
 # Section Blog Settings
 blog:
   enable: true
-  blog_title: The Binary Journal
+  blog_title: Running Commentary
 
 #-------------------------------
 # Newsletter Settings
