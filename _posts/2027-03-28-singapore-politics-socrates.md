@@ -55,5 +55,3 @@ If something feels unfair, I’ll question it. If something breaks, I’ll say s
 There are better things to do with my time.
 
 That’s where I’m at right now. Maybe that’ll change. But for now, I’d rather focus on what I can actually control.
-
-*Note: This isn’t a political post. It’s not an argument. It’s not meant to convince anyone of anything. It’s just me thinking out loud about something I’ve been reflecting on lately.*
