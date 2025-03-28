@@ -17,7 +17,7 @@ Somewhere in the conversation, I said, "I don’t really care that much about po
 
 It wasn’t meant as a provocation. It was just me being honest.
 
-The conversation turned awkward after that. I could feel her pulling back, like I had said something careless or shallow. But the truth is—I’ve been thinking about why I said it, and I still stand by it.
+The conversation turned awkward after that. I could feel her pulling back, like I had said something careless or shallow. But the truth is - I’ve been thinking about why I said it, and I still stand by it.
 
 Not because I don’t care about society or how decisions get made. But because I care more about other things.
 
