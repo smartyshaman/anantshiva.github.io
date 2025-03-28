@@ -1,106 +1,57 @@
 ---
 layout: post
-title: "I Don’t Care About Politics. And I Don’t Think That’s a Problem."
+title: "Why I Don’t Care About Politics (And What I Actually Care About)"
 date: 2025-03-27
+tags: [Reflection]
 tags_color: '#4643ec'
 image: 'https://anantshiva.com/media/socrates-singapore.png'
 ---
 
-My friend got mad at me the other day.
-
-She was talking about politics. Passionate, fired up.  
-And I said something like,  
-> “I don’t really care about politics.”
-
-I could see her reevaluating our entire friendship in real-time.
-
-I wasn’t trying to dismiss her views. I wasn’t mocking her. I just meant what I said.
-
-I don’t care about politics.
-
-And maybe that makes me a bad citizen.  
-But it also might be the only thing keeping me sane.
+*Note: This isn’t a political post. It’s not an argument. It’s not meant to convince anyone of anything. It’s just me thinking out loud about something I’ve been reflecting on lately.*
 
 ---
 
-### Socrates had this idea
+A few weeks ago, I was chatting with a friend. She’s passionate about Singapore politics, especially the opposition. She volunteers at rallies, stays updated on debates, and believes the ruling party has had it too easy for too long.
 
-He didn’t think everyone should vote.  
+Somewhere in the conversation, I said, "I don’t really care that much about politics."
 
-Not because he thought people were stupid, but because he believed voting was a serious responsibility.  
-One that required thought. Reflection. Self-awareness.
+It wasn’t meant as a provocation. It was just me being honest.
 
-You don’t let someone steer a ship without training. Why would you let someone steer a country if they’ve never even thought about what it means to govern?
+The conversation turned awkward after that. I could feel her pulling back, like I had said something careless or shallow. But the truth is—I’ve been thinking about why I said it, and I still stand by it.
 
-That idea stuck with me. Especially now, when so much of politics feels like it’s about taking sides instead of asking questions.
+Not because I don’t care about society or how decisions get made. But because I care more about other things.
 
-It wasn’t about intelligence.  
-It was about **wisdom**.  
-About emotional maturity. About asking good questions instead of yelling bad answers.
+I’ve always liked the way Socrates thought about civic responsibility. He believed that making decisions about governance isn’t just a right—it’s something that requires thought, reflection, and discipline. He compared it to steering a ship. You wouldn’t hand the wheel to someone who’s never learned how to navigate.
 
-### Which brings me to Singapore.
+That metaphor makes sense to me, especially when I look at how people talk about politics today. It often feels less like steering a ship and more like shouting at each other over who gets to sit at the wheel.
 
-I vote for the PAP in every election.
+When it comes to Singapore, my view is simple: this country works. It’s not perfect, but the foundations are solid. The public housing system works. Healthcare is accessible. Education is fair, even if you’re not rich. The trains show up on time. There’s a basic structure here that supports people who want to build something meaningful with their lives.
 
-Not because they’re flawless.  
-Not because I think they’ve gotten everything right.  
-But because I believe they’ve done a lot well - and more importantly, they think long-term.
+That’s not something I take lightly.
 
-Their plans for Singapore are rarely reactive. They're deliberate. Structured. Future-focused.
+And because of that, I vote for the PAP in every election.
 
-Do I agree with everything? Nope.  
-There are real issues — cost of living, inequality, housing pressures.  
-But I also look around at the chaos in other countries and think: actually, we’re doing okay. More than okay, really.
+Not because I think they’re flawless. Not because I agree with everything they do. But because, on balance, they’ve demonstrated something I care deeply about: long-term thinking. They don’t just govern for the next election cycle. They build for the next ten, twenty, thirty years.
 
-The systems here work.  
-Public housing. Public transport. Healthcare. Education. Safety.
+I don’t see that kind of forward thinking in many other places.
 
-These aren’t small things. 
+Of course, there are issues. Housing costs, inequality, rising expenses—it’s not all sunshine. But when I compare what’s happening here to the mess I see elsewhere, it’s clear to me that Singapore is doing more than most.
 
-It’s not perfect, sure, and there are things I wish were different. But overall?  
-It gives people like me the space to live, raise a child, and focus on things that matter personally.
+That’s why I don’t get worked up about politics. I don’t see the point of turning it into a team sport, like Liverpool vs Man Utd or iPhone vs Android. Too many people spend their energy arguing about which side is better, without realizing they’re caught in the same game.
 
-### This is why I don’t get caught up in political tribalism
- 
-iPhone vs Android.
-Man Utd vs Liverpool.
-Islam vs Christianity.
-PAP vs WP. 
+What I care about more is whether the system allows me—and people like me—to live well. To raise my kid. To do meaningful work. To focus on the things I can control.
 
-Everything is a fucking rivalry.  
-And once you pick a side, you’re not allowed to acknowledge anything good about the other.
+That’s where I choose to spend my energy.
 
-I find that exhausting. And unnecessary.
+I care about whether my son can get a good education.  
+Whether I can walk home safely at night.  
+Whether I can teach my students something useful.  
+Whether I can keep learning, keep improving, keep showing up.
 
-Singapore is small. We can’t afford to fracture ourselves over slogans and vibes.
+That’s what matters to me.
 
-### What I care about more is: what can I control?
+If something feels unfair, I’ll question it. If something breaks, I’ll say something. But I don’t want politics to become part of my identity. I don’t want to live my life in a permanent argument.
 
-I’ve never been drawn to political identity.
+There are better things to do with my time.
 
-I’m more interested in what a system allows people to do.
-
-I care about raising my kid well.  
-I care about learning new things.  
-I care about staying healthy, being a good teacher, showing up for people I love.
-
-I’m not blindly loyal to any party. But I believe in results. I believe in structure.  
-And I believe in giving credit where it’s due — even if it’s not the trendy thing to say.
-
-If something feels wrong, I’ll say it.  
-If something feels broken, I’ll speak up about it.
-
-But I won’t let politics consume me.
-
-### Maybe that’s cowardice.  
-Or maybe it’s clarity.
-
-I believe in personal agency.  
-I believe in fixing yourself before trying to fix the system.  
-I believe you can be engaged without being enraged.  
-I believe it’s possible to live well without having to shout about it.
-
-So yeah, I don’t care about politics the way some people do.  
-
-And if that makes me a bad citizen...  
-Well, Socrates got sentenced to death too. So I guess I’m in good company.
+That’s where I’m at right now. Maybe that’ll change. But for now, I’d rather focus on what I can actually control.
