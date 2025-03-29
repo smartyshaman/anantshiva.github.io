@@ -16,7 +16,11 @@ It’s like time-travel therapy. Honestly, I'm not sure why every journaling app
 
 In the meantime, Forever Notes works. Though it's a hassle to set up. 
 
-I know because I painstakingly migrates my journal entries one by one to Apple Notes and journalled this way for a couple of months. In the process, I came across entries that I'd completely forgotten about. 
+I know because I painstakingly migrated my journal entries one by one to Apple Notes and journalled this way for a couple of months. In the process, I came across entries that I'd completely forgotten about. I laughed, I cried...ok, I didn't *cry*. But I did get emotional. It was quite cathartic.
+
+Anyway, the set up was still a pain in the ass. Until I realised that I could stay in Obsidian and simply use Dataview to achieve the same goal. 
+
+Here’s the code I use in my Daily Note template to pull entries from the same day in previous years:
 
 ```js
 TABLE WITHOUT ID
@@ -27,3 +31,7 @@ WHERE dateformat(file.day, "MM-dd") = dateformat(this.file.day, "MM-dd")
 AND file.day.year != date(today).year
 SORT file.day ASC
 ```
+
+"7 - Journal/Daily" is where my journal entries live. You’ll want to change that to wherever you keep your journal entries. 
+
+I’ve now moved my journaling back to Obsidian — and I use it for long-form writing, note-taking, and this blog as well. But do I still miss Apple Notes sometimes?  Yes. I have a problem.
