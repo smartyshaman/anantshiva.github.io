@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to time travel in Obsidian
+title: How to time travel in Obsidian (Forever Notes)
 date: 2025-03-29
 tags:
   - Productivity
@@ -10,7 +10,7 @@ description:
 video_embed: https://www.youtube.com/embed/DqKfBQNn_vE?si=zvJkyNNX-vWfWbQ_
 featured:
 ---
-When I first stumbled upon the _Forever Notes_ journal setup in Apple Notes, it felt like a cheat code for self-awareness. Imagine opening today’s entry and instantly looking at what you were thinking, feeling, or struggling with on this exact day, last year, and the year before that. 
+When I first stumbled upon the [Forever Notes](https://www.myforevernotes.com) journal setup in Apple Notes, it felt like a cheat code for self-awareness. Imagine opening today’s entry and instantly looking at what you were thinking, feeling, or struggling with on this exact day, last year, and the year before that. 
 
 It’s like time-travel therapy. Honestly, I'm not sure why every journaling app didn’t already work this way. Once you see it, you can’t unsee it.
 
