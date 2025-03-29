@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forever Notes in Obsidian
+title: How to time travel in Obsidian
 date: 2025-03-29
 tags:
   - Productivity
