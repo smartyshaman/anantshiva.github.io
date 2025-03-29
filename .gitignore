@@ -1,8 +1,9 @@
 # Obsidian settings and plugin configs
 .obsidian/
 
-# Obsidian templates & scripts
-Templates/
+# Templates & scripts
+templates/
+drafts/
 new-blog-post.md
 
 # System files (Mac)
