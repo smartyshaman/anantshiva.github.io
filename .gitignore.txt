@@ -1,0 +1,32 @@
+# Obsidian settings and plugin configs
+.obsidian/
+
+# Obsidian templates & scripts
+Templates/
+new-blog-post.md
+
+# System files (Mac)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Synology & network-related
+@eaDir/
+
+# Backup & temp files
+*.swp
+*.swo
+*~
+*.tmp
+
+# Logs and misc
+*.log
+
+# Node dependencies (if you use npm/yarn for any Jekyll plugins)
+node_modules/
+
+# Ruby stuff (optional, if Jekyll dependencies are in the folder)
+vendor/
+.bundle/
+.sass-cache/
+.jekyll-cache/
