@@ -5,7 +5,7 @@ date: 2025-03-29
 tags:
   - Productivity
 tags_color: "#de47e2"
-image: 
+image: https://media.anantshiva.com/obsidian-forever-notes.jpg
 description: 
 video_embed: https://www.youtube.com/embed/DqKfBQNn_vE?si=zvJkyNNX-vWfWbQ_
 featured:
