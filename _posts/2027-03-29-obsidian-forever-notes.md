@@ -22,7 +22,8 @@ I was loving it.
 
 Until I realised that I could do the same thing in Obsidian with a single Dataview query. Here’s what I use in the Daily Notes template to pull past entries from the same date:
 
-```js
+{% raw %}
+```dataview
 TABLE WITHOUT ID
 file.link AS "Entries",
 file.day.year AS "Year"
@@ -31,6 +32,7 @@ WHERE dateformat(file.day, "MM-dd") = dateformat(this.file.day, "MM-dd")
 AND file.day.year != date(today).year
 SORT file.day ASC
 ```
+{% endraw %}
 
 "7 - Journal/Daily" is where my journal entries live. You’ll want to change that to wherever you keep your journal entries. You obviously need the Dataview plugin for this to work. 
 
