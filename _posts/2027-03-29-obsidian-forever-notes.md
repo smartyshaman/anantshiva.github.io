@@ -10,15 +10,15 @@ description:
 video_embed: https://www.youtube.com/embed/DqKfBQNn_vE?si=zvJkyNNX-vWfWbQ_
 featured:
 ---
-That’s what matters to me.
+When I first stumbled upon the _Forever Notes_ journal setup in Apple Notes, it felt like a cheat code for self-awareness. Imagine opening today’s entry and instantly looking at what you were thinking, feeling, or struggling with on this exact day, last year, and the year before that. 
 
-If something feels unfair, I’ll question it. If something breaks, I’ll say something. But I don’t want politics to become part of my identity. I don’t want to live my life in a permanent argument.
+It’s like time-travel therapy. Honestly, I'm not sure why every journaling app didn’t already work this way. Once you see it, you can’t unsee it.
 
-There are better things to do with my time.
+In the meantime, Forever Notes works. Though it's an absolute pain to set up. 
 
-That’s where I’m at right now. Maybe that’ll change. But for now, I’d rather focus on what I can actually control.
 
-```dataview
+
+```js
 TABLE WITHOUT ID
 file.link AS "Entries",
 file.day.year AS "Year"
