@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "Why I Don’t Care About Politics (And What I Actually Care About)"
+title: Why I Don’t Care About Politics (And What I Actually Care About)
 date: 2025-03-27
-tags: [Reflection]
-tags_color: '#4643ec'
-image: 'https://media.anantshiva.com/socrates-singapore.png?v=2'
+tags:
+  - Reflection
+tags_color: "#4643ec"
+image: https://media.anantshiva.com/socrates-singapore.png?v=2
+description: 
+video_embed: 
+featured:
 ---
-
 *Note: This isn’t a political post. It’s not an argument. It’s not meant to convince anyone of anything. It’s just me thinking out loud about something I’ve been reflecting on lately.*
 
 ---
