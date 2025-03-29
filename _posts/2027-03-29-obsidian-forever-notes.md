@@ -22,7 +22,7 @@ I was loving it.
 
 Until I realised that I could do the same thing in Obsidian with a single Dataview query. Here’s what I use in the Daily Notes template to pull past entries from the same date:
 
-```css
+```js
 TABLE WITHOUT ID
 file.link AS "Entries",
 file.day.year AS "Year"
