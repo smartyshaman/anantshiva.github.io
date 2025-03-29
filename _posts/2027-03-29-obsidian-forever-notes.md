@@ -20,7 +20,7 @@ I know because I painstakingly migrated my journal entries one by one to Apple N
 
 Anyway, the set up was still a pain in the ass. 
 
-Until I realised that I could stay in Obsidian and simply use Dataview to achieve the same goal. Here’s the code I use in my Daily Note template to pull entries from the same day in previous years:
+Until I realised that I could do the same thing in Obsidian with a single Dataview query. Here’s what I use in the Daily Notes template to pull past entries from the same date:
 
 ```js
 TABLE WITHOUT ID
@@ -34,4 +34,4 @@ SORT file.day ASC
 
 "7 - Journal/Daily" is where my journal entries live. You’ll want to change that to wherever you keep your journal entries. You obviously need the Dataview plugin for this to work. 
 
-I’ve now moved my journaling back to Obsidian - and I use it for long-form writing, note-taking, and this blog as well. But do I still miss Apple Notes? Yes. I have a problem.
+I’ve now moved my journaling back to Obsidian - and I use it for long-form writing, note-taking, and this blog as well. But do I still miss Apple Notes?  Yes. I have a problem.
