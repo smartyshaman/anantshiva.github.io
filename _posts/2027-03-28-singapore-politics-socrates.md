@@ -11,7 +11,7 @@ image: 'https://media.anantshiva.com/socrates-singapore.png?v=2'
 
 ---
 
-A few weeks ago, I was chatting with a friend. She’s passionate about Singapore politics, especially the opposition. She volunteers at rallies, stays updated on debates, and believes the ruling party has had it too easy for too long.
+A few weeks ago, I was chatting with a friend. She’s passionate about Singapore politics, particularly the opposition. She volunteers at rallies, stays updated on debates, and believes the ruling party has had it too easy for too long.
 
 Somewhere in the conversation, I said, "I don’t really care that much about politics."
 
