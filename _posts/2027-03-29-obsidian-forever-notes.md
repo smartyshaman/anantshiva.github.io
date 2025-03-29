@@ -18,7 +18,7 @@ In the meantime, Forever Notes works. Though it's a hassle to set up.
 
 I know because I painstakingly migrated my journal entries one by one to Apple Notes and journalled this way for a couple of months. In the process, I came across entries that I'd completely forgotten about. I laughed, I cried - ok, I didn't *cry*. But I did get emotional. It was surprisingly cathartic.
 
-Anyway, the set up was still a pain in the ass. 
+I was loving it.
 
 Until I realised that I could do the same thing in Obsidian with a single Dataview query. Here’s what I use in the Daily Notes template to pull past entries from the same date:
 
