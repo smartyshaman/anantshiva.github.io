@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Time Travel in Obsidian (Forever Notes Framework)
+title: How to Time Travel in Obsidian - Inspired by Forever Notes
 date: 2025-03-29
 tags:
   - Productivity
