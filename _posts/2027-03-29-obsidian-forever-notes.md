@@ -7,7 +7,7 @@ tags:
 tags_color: "#de47e2"
 image: 
 description: 
-video_embed: https://www.youtube.com/watch?v=DqKfBQNn_vE
+video_embed: https://www.youtube.com/embed/DqKfBQNn_vE?si=zvJkyNNX-vWfWbQ_
 featured:
 ---
 That’s what matters to me.
