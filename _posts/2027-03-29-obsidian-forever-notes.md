@@ -14,9 +14,9 @@ When I first stumbled upon the [Forever Notes](https://www.myforevernotes.com) j
 
 It’s like time-travel therapy. Honestly, I'm not sure why every journaling app didn’t already work this way. Once you see it, you can’t unsee it.
 
-In the meantime, Forever Notes works. Though it's a hassle to set up. 
+In the meantime, Forever Notes works. Though it's a pain in the ass to set up. 
 
-I know because I painstakingly migrated my journal entries one by one to Apple Notes and journalled this way for a couple of months. In the process, I came across entries that I'd completely forgotten about. I laughed, I cried - ok, I didn't *cry*. But I did get emotional. It was surprisingly cathartic.
+I know because I manually migrated my journal entries one by one to Apple Notes and journaled this way for a couple of months. In the process, I came across entries that I'd completely forgotten about. I laughed, I cried - ok, I didn't *cry*. But I did get emotional. It was surprisingly cathartic.
 
 I was loving it.
 
